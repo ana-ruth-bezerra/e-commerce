@@ -31,7 +31,7 @@ Este projeto foi desenvolvido na linguagem de programação **Java** na versão 
 - **Java 12** ou superior (recomendado usar a versão mais recente com suporte LTS).
 ## Instalação
 
-- Faça o download da pasta zipada `INF008_T1_ANA_BEZERRA` e descompacte a pasta usando a ferramenta de sua preferência.
+- Faça o download da pasta zipada `e-commerce` e descompacte a pasta usando a ferramenta de sua preferência.
 ## Execução local
 
 1. Abra o **Prompt de Comando** e navegue até o diretório onde a pasta foi descompactada:
